@@ -28,4 +28,4 @@ echo " ( *)> "
 echo " ( ()  "
 echo " ----- "
 
-exit O;
+exit 0;
